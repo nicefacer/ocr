@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "jamestown-digital-library",
+    "private_key_id": "9b85539aeeb2d49cd311394d2c7ef7d1da630ed0",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoxxTCUJruZSq9\ncy5HNbW3JWWdcU0cAiW6+KSo8eX1XUqM8nOfn5Ob/qxrq2rTgiMdlHUjkBcqb/xN\nbtDj6pNcUq3PyuSSyS1TPGSMfaaqMOzT+Rvsi405AlaLZ5qZvmej9VjLZ00rLG98\nT6L8pP2LTFqtFSaIy6Pazi5r+T1Ow7jgNzyQyr26PaFwoS46+nqgvaW0W7ytGey7\nT5OCr/FftvEv6JEOUXmqn14TlkAjAOMXwz39rnlDXHtM5MWNeAEtGsx6qfHxFwxi\neF1UIAreFwIOLgeZ7hi7NAagDRbzUor+HUzIEs+9yeOqQOVjCqzvFwSxOMOkdSIo\nYqFkWkEjAgMBAAECggEABVcDI6C8PiWqRAM0aCFdZfWDcQdIKsYwnmlGgGfi4C/6\n71muadL5LxrQJrnuL9HyvXlYeW8SJJAVefezGTrvPaEKCcSAFdrSmcsT3VQOZV0V\n6SD9Dq9doPufdFqrTAj3q3rUO99BVEfcISE95WNs+C7KwaYlKXfT79TNKDJjC65d\ncFWkALjTXf4ioZ/VcpzB81Y/9rXZNi20d8S+YCATX/eNnZfp+/5g9Y6M8nqdr7Xi\nlujf8Qhg2a2GWffDWzmgjhM0lkys3xG20ryJtAz0yfVfQwmLa/ci3e89fmnzUFOW\nGRwNpL0GLynNXXhsBCPGwDStSFlabOwPvcYkRk27mQKBgQDQGpxEBCDMAlKwVvb1\nhhuvs85DqaRDrj3RB44ml/1jU/NcHw577jOyBIK3tNJJOir5QPieKyockzNoX3dO\nP7gQIvVHRHmo4Z6ZGNe8gbW+t3SUr2P0iIYC/L6rL7McRj+LYKKEk9d/FrJREKzA\ngb5rVHPHxnZamrjYAadRxCOb6QKBgQDPn2JChUb6Uk6/AQnVomMjEPYi5UTY3GyK\nowAQpQJAAyFnXdPGvO5QdBu5MdE3YOTwWJ3y/GSlhjLS6bWm1pw5619H6WyTaqMe\nuMLVtvye4akg9UCqXs+BdNyE50DDwz+EINNGCc0yIl8N2APw9NSiZqsz5qsaiyBG\nOIZW6rjpKwKBgC3ykioaVzt0D9nLeb+AGsDSjGo4HIKtCA0NA//VcybpNERUvxfx\n4gweHtZ84Ck25KIgDESv9x5UCfezjF4Eh5lYfpt7rPjyx9e5unhukzhGvUDO8Nze\n/+fM8jRN1dgaUpFthrSLB/uRgVGQwvPGMcr03JNxaFRc8Q8QXmcZTVtxAoGAVU73\n4L1CXLhVAsY6dD003sOpXs01bKWlM5GmBTDHq+WdZAt5aL9YbFZIzd9aR5bYeqju\nvVhXQmvRljfRG6wypNnBXJrcsfWu8ICaDZYSVnYCODiNSXOLb3XE5hbe1ZD0GCYk\nqTJ9zYux4s5PUEJI3DGzRrAQvedMa43uJOhs8eECgYA/t4wSlLRVgOzF89faWgsh\nqHlsEDq+lISS2Zxp7nvDc7yKDVbb0tF1lBWgEBGqqafw2zsINkwIIGh2uRAbWS8Z\npwUXN93yQNCdrW5jG2o2prA8smWu7uDcCS/ubpQn0YMOgGAtZphcDcLjTCb3VqPH\n7+sb1YaiihcZj6oocu0NMQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "ocrtask@jamestown-digital-library.iam.gserviceaccount.com",
+    "client_id": "115972434584406995857",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocrtask%40jamestown-digital-library.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
